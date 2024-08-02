@@ -1,0 +1,4 @@
+*** invoice copy ***
+1.Biscuit Marie Gold	2	30	60
+
+Total: 60
